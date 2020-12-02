@@ -6,4 +6,4 @@ Here is the basic information about my science activity:
 
 And about my projects:
 * [Sentiment analysis](https://github.com/aovolkov/sentiment_analysis)
-* [Bitcoin_price_prediction](https://github.com/aovolkov/bitcoin_price_prediction)
+* [Bitcoin price prediction](https://github.com/aovolkov/bitcoin_price_prediction)
